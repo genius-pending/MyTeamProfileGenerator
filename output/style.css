@@ -1,0 +1,28 @@
+body {
+    background-image: url(contemporary-loft-office-interior-3d-260nw-1673313709.webp);
+    background-size: cover;
+    opacity: 1.0;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+    background-repeat: no-repeat;
+  }
+
+h1 {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: italic;
+font-size: x-large;
+color: white;
+}
+
+.jumbotron {
+background-color: black;
+}
+
+.card-body {
+border-radius: 10px;
+}
+
+.employee-card {
+margin: 30px;
+}
